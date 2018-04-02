@@ -1,4 +1,3 @@
-
 /**
  * 4장 Test 15
  * 
@@ -11,7 +10,7 @@ var moment = require('moment');    				// 시간 처리 모듈
 
 function timeStampFormat() {
     return moment().format('YYYY-MM-DD HH:mm:ss.SSS ZZ'); // '2016-05-01 20:14:28.500 +0900'
-};
+}
 
 var logger = new (winston.Logger)({
     transports: [

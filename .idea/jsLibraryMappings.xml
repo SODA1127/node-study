@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/brackets-nodejs/NodeExample1" libraries="{nodestudy/brackets-nodejs/NodeExample1/node_modules}" />
+    <file url="PROJECT" libraries="{jQuery-2.0.0, nodestudy/brackets-nodejs/NodeExample1/node_modules}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+    <excludedPredefinedLibrary name="nodestudy/brackets-nodejs/BoardExample/node_modules" />
+  </component>
+</project>
